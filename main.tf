@@ -215,7 +215,7 @@ resource "kubernetes_deployment" "nxrm3" {
         }
 
         container {
-          image             = "sonatype/nexus3:3.38.0"
+          image             = "sonatype/nexus3:3.38.1"
           name              = "nxrm3-app"
           image_pull_policy = "IfNotPresent"
 
