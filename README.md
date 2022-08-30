@@ -30,7 +30,7 @@ aws-vault exec vendorcorp -- terraform apply
 
 # The Fine Print
 
-At the time of writing I work for Sonatype, and it is worth nothing that this is **NOT SUPPORTED** bu Sonatype - it is purely a contribution to the open source community (read: you!).
+At the time of writing I work for Sonatype, and it is worth nothing that this is **NOT SUPPORTED** by Sonatype - it is purely a contribution to the open source community (read: you!).
 
 Remember:
 - Use this contribution at the risk tolerance that you have
